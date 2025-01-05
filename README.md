@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет, я PesKoshachy! 👋
 
-<!--
-**PesKoshachy/PesKoshachy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Добро пожаловать на мой профиль. Я — разработчик и энтузиаст технологий.
 
-Here are some ideas to get you started:
+## О себе
+- 🔭 Я работаю над проектами по разработке ПО.
+- 🌱 В настоящее время учу новые технологии.
+- 👯 Ищу возможности для сотрудничества с другими разработчиками.
+- 💬 Пишите мне, если у вас есть вопросы.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Контакты
+- 📫 Как со мной связаться: [email@example.com](mailto:email@example.com)
+- 🔗 Мой сайт: [http://example.com](http://example.com)
+- 🐦 Twitter: [@PesKoshachy](https://twitter.com/PesKoshachy)
+
+## Приветственное окно
+_Здесь ты можешь написать о своих проектах, достижениях и интересах._
