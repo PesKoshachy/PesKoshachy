@@ -4,7 +4,7 @@
 
 ## 🔧 Мой стек технологий
 
-- <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="20" height="20"> **Python**:
+- <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="20" height="20"> **Python**
   
 - <img src="https://img.icons8.com/?size=100&id=8ljTDYUEydbJ&format=png&color=000000" width="20" height="20"> **SQL**:
   - Опыт работы с реляционными базами данных: **PostgreSQL**, **Microsoft SQL Server**
